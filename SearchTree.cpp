@@ -39,6 +39,8 @@ class BinaryTree
         Node *parent = NULL;
         Node *currentNode = NULL;
 
+        search(element, parent, currentNode);
+
     }
 
 };
