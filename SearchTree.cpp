@@ -28,4 +28,7 @@ class BinaryTree
         ROOT = NULL;
     }
 
+    void insert(string element)
+    {}
+
 };
